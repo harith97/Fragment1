@@ -11,7 +11,7 @@ import android.view.ViewGroup;
  * Created by harithaperera on 2/17/17.
  */
 public class FragmentClass extends Fragment{//STATIC WAY OF FRAGMNERT
-//sd
+//last
 
     @Nullable
     @Override//linking XML
