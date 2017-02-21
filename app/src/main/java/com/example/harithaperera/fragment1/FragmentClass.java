@@ -12,7 +12,7 @@ import android.view.ViewGroup;
  */
 public class FragmentClass extends Fragment{//STATIC WAY OF FRAGMNERT
 //sd
-
+klnjnkjnjkj
     @Nullable
     @Override//linking XML
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
